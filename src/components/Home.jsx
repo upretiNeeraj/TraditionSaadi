@@ -1,5 +1,5 @@
 import React from 'react'
-import CharacterCard from "./characterCard";
+import CharacterCard from "./CharacterCard.jsx";
 
 function Home() {
   return (
